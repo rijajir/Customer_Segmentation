@@ -2,6 +2,8 @@
 
 ---
 
+![Thumbnail](images/thumbnail.png)
+
 ## **Project Overview:**
 
 **Business Context:**
