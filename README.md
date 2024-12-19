@@ -10,7 +10,7 @@ In today's fiercely competitive e-commerce landscape, Thames E-Commerce faces th
 
 **Data Source:**
 
-This project leverages the rich dataset "E-Commerce Data | Actual transactions from UK retailer" available on Kaggle. This dataset offers a comprehensive record of transactions from a UK-based online retailer, Thames E-Commerce, spanning from 01/12/2010 to 09/12/2011. [https://www.kaggle.com/datasets/carrie1/ecommerce-data/data](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data).
+This project leverages the rich dataset "E-Commerce Data | Actual transactions from UK retailer" available on Kaggle. This dataset offers a comprehensive record of transactions from a UK-based online retailer [https://www.kaggle.com/datasets/carrie1/ecommerce-data/data](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data).
 
 This is a trans-national data set that contains all the transactions occurring between 01/12/2010 and 09/12/2011 (yearly transaction) for a UK-based and registered non-store online retail, Thames E-Commerce.
 
