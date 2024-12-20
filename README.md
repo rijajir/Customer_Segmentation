@@ -1,4 +1,4 @@
-# 👥 **Optimizing Marketing Strategies with Customer Segmentation** 👥
+# **Optimizing Marketing Strategies with Customer Segmentation**
 
 ---
 
